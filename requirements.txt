@@ -1,0 +1,10 @@
+Flask
+pyodbc
+mysql-connector-python
+SQLAlchemy
+pandas
+Flask-SQLAlchemy  # Per integrare SQLAlchemy con Flask
+Flask-Login       # Per gestire le sessioni utente (login/logout)
+Flask-WTF         # Per creare e validare i form (opzionale ma consigliato)
+python-dotenv     # Per caricare le variabili d'ambiente da un file .env
+werkzeug          # Per l'hashing delle password
