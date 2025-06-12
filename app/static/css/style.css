@@ -1,0 +1,26 @@
+/* File: app/static/css/style.css */
+
+/* Stile per la barra di navigazione personalizzata */
+.navbar-custom {
+    background-color: #212529; /* Un nero/grigio scuro standard di Bootstrap */
+}
+
+/* Colore bianco per i link e il brand nella navbar */
+.navbar-custom .navbar-brand,
+.navbar-custom .nav-link {
+    color: white;
+}
+
+/* Cambia colore quando passi il mouse sopra i link */
+.navbar-custom .nav-link:hover {
+    color: #dddddd; /* Un bianco leggermente più scuro */
+}
+
+/* Stile per il contenitore del logo */
+.logo-container {
+    text-align: center; /* Centra il logo */
+    padding: 2rem 0;
+    background-color: #f8f9fa; /* Un colore di sfondo grigio chiaro */
+    border-radius: 0.5rem;
+    margin-bottom: 2rem;
+}
