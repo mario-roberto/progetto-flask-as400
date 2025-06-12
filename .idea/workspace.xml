@@ -4,15 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22e1f78e-4d30-495e-948c-5660019ab1b5" name="Changes" comment="Prima Versione per la struttura con login su Mysql" />
+    <list default="true" id="22e1f78e-4d30-495e-948c-5660019ab1b5" name="Changes" comment="Prima Versione per la struttura con login su Mysql">
+      <change afterPath="$PROJECT_DIR$/etl_scripts/sync_agenti.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etl_scripts/sync_articoli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etl_scripts/sync_clienti.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etl_scripts/sync_vendite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/models.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "mario-roberto"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/mario-roberto/progetto-flask-as400.git",
+    "accountId": "08a45a34-15af-4be4-a9ab-7de307dd0e3c"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -83,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749733611206</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Prima Versione per la struttura con login su Mysql">
+      <option name="closed" value="true" />
+      <created>1749733925233</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1749733925233</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
